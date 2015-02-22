@@ -1,2 +1,2 @@
 # PML_training
-PML. Course project. Training
+Practical machine learning. Course project. Training mesurements.
